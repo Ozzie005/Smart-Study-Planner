@@ -1,0 +1,3 @@
+Mathematics|Algebra|Monday|60.0
+Pysics|Motion|monday|20.0
+Programming|Python|Tuesday|120.0
